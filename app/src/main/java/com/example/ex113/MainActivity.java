@@ -74,7 +74,6 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * Resets the text in the text view and in the file.
-     * @param view
      */
     public void reset(View view) {
         str = "";
@@ -84,7 +83,6 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * Closes the Activity.
-     * @param view
      */
     public void close(View view) {
         finish();
@@ -92,7 +90,6 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * Saves the text written by the user to the file and displays all of the text in the file/
-     * @param view
      */
     public void saver(View view) {
         str = read() + et.getText().toString();
