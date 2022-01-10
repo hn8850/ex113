@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ex113</string>
+    <string name="go_back">go back</string>
+    <string name="creds">Author : Harel Navon
+                "Description: This is a small application designed to try out reading and writing to files!!</string>
+    <string name="write_something">Write something!</string>
+    <string name="exit">exit</string>
+    <string name="save">save</string>
+    <string name="reset">reset</string>
+    <string name="credits">Credits!</string>
+</resources>
